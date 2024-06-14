@@ -1,4 +1,4 @@
-# AI vs Real Image Classifier
+# Image Classifier
 
 This repository contains code for training a Convolutional Neural Network (CNN) to classify images into two categories: "AI" and "Real". The model is built using TensorFlow/Keras and trained on a dataset of images stored in Google Drive.
 
