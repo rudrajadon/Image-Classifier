@@ -16,8 +16,8 @@ This repository contains code for training a Convolutional Neural Network (CNN) 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/rudrajadon/Image-Classifier.git
+   cd Image-Classifier
    ```
 
 2. Install dependencies:
@@ -93,5 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project was created as part of learning TensorFlow/Keras for image classification.
 
 ---
-
-Feel free to customize the README further based on additional features, acknowledgments, or specific instructions relevant to your project.
