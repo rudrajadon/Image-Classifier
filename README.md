@@ -91,5 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Acknowledgments
 
 - This project was created as part of learning TensorFlow/Keras for image classification.
-
----
