@@ -84,7 +84,7 @@ else:
     print("Prediction: Real")
 ```
 
-### Download the Model
+### Download Trained Model
 
 You can download the trained model from [Google Drive](https://drive.google.com/file/d/1iLxWlZa2TU-i3TJLiWZtPdIkNY2rIe9p/view?usp=sharing).
 
