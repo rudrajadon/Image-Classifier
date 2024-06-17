@@ -84,6 +84,10 @@ else:
     print("Prediction: Real")
 ```
 
+### Download the Model
+
+You can download the trained model from [Google Drive](https://drive.google.com/file/d/1iLxWlZa2TU-i3TJLiWZtPdIkNY2rIe9p/view?usp=sharing).
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
